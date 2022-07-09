@@ -1,0 +1,15 @@
+﻿“games101-0.exe”(Win32): 已加载“C:\Users\Administrator\source\repos\games101-0\x64\Debug\games101-0.exe”。已加载符号。
+“games101-0.exe”(Win32): 已加载“C:\Windows\System32\ntdll.dll”。
+“games101-0.exe”(Win32): 已加载“C:\Windows\System32\kernel32.dll”。
+“games101-0.exe”(Win32): 已加载“C:\Windows\System32\KernelBase.dll”。
+“games101-0.exe”(Win32): 已加载“C:\Windows\System32\msvcp140d.dll”。
+“games101-0.exe”(Win32): 已加载“C:\Windows\System32\vcruntime140d.dll”。
+“games101-0.exe”(Win32): 已加载“C:\Windows\System32\vcruntime140_1d.dll”。
+“games101-0.exe”(Win32): 已加载“C:\Windows\System32\ucrtbased.dll”。
+线程 0x3cf0 已退出，返回值为 0 (0x0)。
+“games101-0.exe”(Win32): 已加载“C:\Windows\System32\kernel.appcore.dll”。
+“games101-0.exe”(Win32): 已加载“C:\Windows\System32\msvcrt.dll”。
+“games101-0.exe”(Win32): 已加载“C:\Windows\System32\rpcrt4.dll”。
+线程 0x3d7c 已退出，返回值为 0 (0x0)。
+线程 0x3d78 已退出，返回值为 0 (0x0)。
+程序“[15584] games101-0.exe”已退出，返回值为 0 (0x0)。
